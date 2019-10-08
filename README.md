@@ -1,0 +1,2 @@
+# genHiveCreateTableSQL
+不想写hive的建表语句了，就写了一个vba工具，将结构填入到excel表格中，自动生成hive的建表语句
